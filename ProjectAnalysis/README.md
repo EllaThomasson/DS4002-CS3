@@ -5,6 +5,8 @@
 
 **SCRIPTS** -- preprocessing_and_analysis.ipynb, more_EDA.ipynb, model_building.ipynb
 
+Analysis Plan
+
 ProjectMotivationArticle
 
 ## Instructions for reproducing results
