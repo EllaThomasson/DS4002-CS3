@@ -7,6 +7,8 @@
 
 Analysis Plan
 
+TechnicalResource
+
 ProjectMotivationArticle
 
 ## Instructions for reproducing results
