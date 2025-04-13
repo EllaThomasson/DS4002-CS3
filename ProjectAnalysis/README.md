@@ -5,6 +5,8 @@
 
 **SCRIPTS** -- preprocessing_and_analysis.ipynb, more_EDA.ipynb, model_building.ipynb
 
+ProjectMotivationArticle
+
 ## Instructions for reproducing results
 1. Access 'email_spam.csv' via DATA folder. 
 2. The variable we are trying to classify is 'type'. The remaining variables will be eventually eliminated from the data set after preprocessing.
