@@ -1,13 +1,9 @@
 ## Map of documentation
-**DATA** -- email_spam.csv, preprocessed_data.csv, Data Appendix.pdf
+**DATA** -- email_spam.csv, preprocessed_data.csv
 
 **OUTPUT** -- evaluation_metrics.png, LF_confusion_matrix.png, RF_confusion_matrix.png
 
 **SCRIPTS** -- preprocessing_and_analysis.ipynb, more_EDA.ipynb, model_building.ipynb
-
-README.md
-
-LICENSE.md
 
 ## Instructions for reproducing results
 1. Access 'email_spam.csv' via DATA folder. 
